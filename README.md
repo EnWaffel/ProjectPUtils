@@ -1,2 +1,2 @@
 # ProjectPUtils
-A util library for Java
+A Utility Library for Java
